@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "809033387607",
+    "project_id": "organisasi-f62b7",
+    "storage_bucket": "organisasi-f62b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809033387607:android:cfd4eeaddb554d587edd12",
+        "android_client_info": {
+          "package_name": "com.example.organisasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809033387607-nrrs5q3n6mreso5md820ub41p7qremq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_wdflzxrI-m7xvN-StSsTe-NV_Iisoy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809033387607-nrrs5q3n6mreso5md820ub41p7qremq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
